@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'My Personal Portfolio and Blog',
+    description: 'My Personal Portfolio and Blog website, aimed at helping others learn how to code.',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
